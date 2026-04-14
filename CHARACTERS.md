@@ -30,7 +30,7 @@
 **Suggested Class:** Druid (Circle of Spores) / Ranger (Horizon Walker) / Warlock (Great Old One)
 **Key Items:** Dream journal, pressed creek flowers, a broken compass that started working again recently
 
-**Character Secret (optional reveal):** Celeste's grandmother disappeared in 1987 — one of the three original missing persons when the gate first opened. No one in her family talks about it. The Theselhydra has been encountered in Celeste's dreams in a form she doesn't yet recognize.
+**Character Secret (optional reveal):** Celeste's grandmother disappeared in 1987 — one of the three original missing persons when the gate first opened. Celeste's parent was a young child at the time. No one in the family talks about it. The Theselhydra has been encountered in Celeste's dreams in a form she doesn't yet recognize.
 
 ---
 

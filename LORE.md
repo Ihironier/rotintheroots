@@ -63,7 +63,7 @@ Coach Hendricks is at early-to-middle stage. He can be helped if the breach near
 
 The three people who vanished in 1987:
 1. **Thomas Whitfield** (32) — local farmer. Vanished near the creek during the drought while checking water levels. Never found.
-2. **Angela Moreau** (41) — librarian. Celeste's grandmother. Vanished during what was reported as a hiking accident. The "accident" report was filed by a federal agent.
+2. **Angela Moreau** (52) — librarian. Celeste's grandmother. Vanished during what was reported as a hiking accident. The "accident" report was filed by a federal agent.
 3. **Dr. Paul Nguyen** (28) — a visiting hydrologist from a university, doing drought research. Vanished the same night as Thomas Whitfield. His field notes were confiscated.
 
 **What actually happened:** The gate opened. All three were drawn to the tear — either by proximity, curiosity, or (in Angela Moreau's case) possibly something else. They fell through. The federal team that arrived found no bodies. The gate was partially sealed (reduced to a manageable 2-foot aperture) but not closed.
