@@ -1,275 +1,115 @@
-# CHARACTERS
+# CHARACTERS: The Rot in the Roots (MODERNIZED 2026)
 
-## Player Characters
+## PLAYER CHARACTER 1: FYNDOR (Tech-Savvy Criminal)
 
-### Fyndor
-- **Race:** Half-Elf
-- **Class:** Bard
-- **Background:** Entertainer  
-- **Ability Scores:**  
-  - Strength: 10  
-  - Dexterity: 14  
-  - Constitution: 12  
-  - Intelligence: 13  
-  - Wisdom: 15  
-  - Charisma: 18  
-- **Armor Class (AC):** 15  
-- **Hit Points (HP):** 28  
-- **Proficiencies:**  
-  - Instruments: Lute, Flute  
-  - Skills: Performance, Persuasion, Deception  
-- **Equipment:**  
-  - Lute, Leather Armor, Dagger  
-- **Personality Traits:** I love a good story.  
-- **Ideals:** Creativity  
-- **Bonds:** I will do anything to prove my worth to my family.  
-- **Flaws:** I can’t resist a pretty face.  
+**Race:** Human | **Class:** Rogue | **Background:** Criminal | **Level:** 1 | **Age:** 17
 
-### Celeste
-- **Race:** Tiefling
-- **Class:** Warlock  
-- **Background:** Sage  
-- **Ability Scores:**  
-  - Strength: 8  
-  - Dexterity: 12  
-  - Constitution: 14  
-  - Intelligence: 16  
-  - Wisdom: 13  
-  - Charisma: 18  
-- **Armor Class (AC):** 12  
-- **Hit Points (HP):** 22  
-- **Proficiencies:**  
-  - Skills: Arcana, History, Insight  
-- **Equipment:**  
-  - Tome, Robes, Dagger  
-- **Personality Traits:** I’m always curious.  
-- **Ideals:** Knowledge  
-- **Bonds:** I am devoted to my studies.  
-- **Flaws:** I have trouble trusting others.
+### Ability Scores
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 13  | 15  | 12  | 14  | 11  | 8   |
 
-## Major NPCs
+### Combat Stats
+- **Hit Points:** 9 (1d8 + 1)
+- **Armor Class:** 12 (hoodie, athletic wear)
+- **Proficiency Bonus:** +2
+- **Speed:** 30 ft.
 
-### Marcus Chen
-- **Race:** Human  
-- **Class:** Fighter  
-- **Background:** Soldier  
-- **Ability Scores:**  
-  - Strength: 16  
-  - Dexterity: 12  
-  - Constitution: 14  
-  - Intelligence: 10  
-  - Wisdom: 11  
-  - Charisma: 13  
-- **Armor Class (AC):** 17  
-- **Hit Points (HP):** 32  
-- **Proficiencies:**  
-  - Skills: Athletics, Intimidation  
-- **Equipment:**  
-  - Chain Mail, Sword, Shield  
-- **Personality Traits:** I obey the law without question.  
-- **Ideals:** Duty  
-- **Bonds:** I protect those I serve.  
-- **Flaws:** I am overly rigid.
+### Skills & Proficiencies
+- **Proficient:** Acrobatics (+2), Sleight of Hand (+2), Stealth (+2)
+- **Tools:** Lock picks, phone hacking tools, basic electronics
 
-### Dr. Helena Voss
-- **Race:** Elf  
-- **Class:** Cleric  
-- **Background:** Acolyte  
-- **Ability Scores:**  
-  - Strength: 10  
-  - Dexterity: 14  
-  - Constitution: 12  
-  - Intelligence: 18  
-  - Wisdom: 16  
-  - Charisma: 13  
-- **Armor Class (AC):** 15  
-- **Hit Points (HP):** 26  
-- **Proficiencies:**  
-  - Skills: Medicine, Religion  
-- **Equipment:**  
-  - Holy Symbol, Scale Mail, Mace  
-- **Personality Traits:** I believe in justice.  
-- **Ideals:** Compassion  
-- **Bonds:** I am dedicated to helping the sick.  
-- **Flaws:** I mistrust authority.
+### Modern Equipment
+- **Melee:** Switchblade (1d4 damage, concealable)
+- **Ranged:** Modified BB gun (1d4 damage, quiet, range 30/60)
+- **Wearables:** Hoodie, black jeans, worn sneakers, backpack
+- **Tech:** Police scanner app, burner phone, modded laptop, USB drives
+- **Tools:** Lock pick set, screwdriver kit, duct tape, flashlight, headlamp
+- **Personal:** Encrypted notebook with conspiracy data
 
-### Sheriff Tom Blackwell
-- **Race:** Human  
-- **Class:** Ranger  
-- **Background:** Folk Hero  
-- **Ability Scores:**  
-  - Strength: 13  
-  - Dexterity: 15  
-  - Constitution: 14  
-  - Intelligence: 10  
-  - Wisdom: 16  
-  - Charisma: 12  
-- **Armor Class (AC):** 15  
-- **Hit Points (HP):** 28  
-- **Proficiencies:**  
-  - Skills: Survival, Insight  
-- **Equipment:**  
-  - Leather Armor, Short Bow, Dagger  
-- **Personality Traits:** I am very protective of my community.  
-- **Ideals:** Independence  
-- **Bonds:** I will safeguard my town.  
-- **Flaws:** I am overly wary.
+### Class Features
+- **Sneak Attack:** 1d6 (once per turn when you have advantage or an ally nearby)
+- **Cunning Action:** Bonus action to Dash, Disengage, or Hide
+- **Criminal Contact:** Underground network in Oakhaven
 
-### Mayor Richard Hayes
-- **Race:** Dwarf  
-- **Class:** Bard  
-- **Background:** Noble  
-- **Ability Scores:**  
-  - Strength: 11  
-  - Dexterity: 12  
-  - Constitution: 16  
-  - Intelligence: 15  
-  - Wisdom: 10  
-  - Charisma: 18  
-- **Armor Class (AC):** 14  
-- **Hit Points (HP):** 30  
-- **Proficiencies:**  
-  - Skills: Persuasion, History  
-- **Equipment:**  
-  - Fine Clothes, Light Armor, Rapier  
-- **Personality Traits:** I am charming and protective of my people.  
-- **Ideals:** Community  
-- **Bonds:** I will lead my town to prosperity.  
-- **Flaws:** I am somewhat arrogant.
+### Personality & Character
+- **Personality Traits:** "I always have a plan for what to do when things go wrong."
+- **Ideals:** "I am loyal to my friends, not ideas."
+- **Bonds:** "Someone I loved died because of a mistake I made. That won't happen again."
+- **Flaws:** "I have a 'tell' that reveals when I'm lying."
 
-### Jim Wheeler
-- **Race:** Half-Orc  
-- **Class:** Barbarian  
-- **Background:** Outlander  
-- **Ability Scores:**  
-  - Strength: 18  
-  - Dexterity: 14  
-  - Constitution: 16  
-  - Intelligence: 8  
-  - Wisdom: 12  
-  - Charisma: 10  
-- **Armor Class (AC):** 12  
-- **Hit Points (HP):** 35  
-- **Proficiencies:**  
-  - Skills: Athletics, Survival  
-- **Equipment:**  
-  - Greataxe, Hide Armor  
-- **Personality Traits:** I am rugged and straightforward.  
-- **Ideals:** Survival  
-- **Bonds:** I seek to protect nature.  
-- **Flaws:** I hold a grudge.
+---
 
-### Margaret Thorne
-- **Race:** Human  
-- **Class:** Sorcerer  
-- **Background:** Guild Artisan  
-- **Ability Scores:**  
-  - Strength: 10  
-  - Dexterity: 11  
-  - Constitution: 15  
-  - Intelligence: 14  
-  - Wisdom: 12  
-  - Charisma: 19  
-- **Armor Class (AC):** 13  
-- **Hit Points (HP):** 24  
-- **Proficiencies:**  
-  - Skills: Arcana, Insight  
-- **Equipment:**  
-  - Spellbook, Wand  
-- **Personality Traits:** I am passionate about my craft.  
-- **Ideals:** Knowledge  
-- **Bonds:** I wish to innovate.  
-- **Flaws:** I can be obsessive.
+## PLAYER CHARACTER 2: CELESTE
 
-### Max the Dog
-- **Race:** Animal  
-- **Class:** N/A  
-- **Background:** N/A  
-- **Ability Scores:**  
-  - Strength: 14  
-  - Dexterity: 14  
-  - Constitution: 15  
-  - Intelligence: 3  
-  - Wisdom: 12  
-  - Charisma: 6  
-- **Armor Class (AC):** 12  
-- **Hit Points (HP):** 20  
-- **Proficiencies:**  
-  - Skills: Perception  
-- **Personality Traits:** Loyal and protective.  
-- **Ideals:** Loyalty  
-- **Bonds:** I protect my owner.  
-- **Flaws:** My lack of understanding of danger.  
+**Race:** Human | **Class:** (Awaiting character sheet) | **Background:** (Awaiting) | **Level:** 1 | **Age:** (Awaiting)
 
-### Agent Marcus Reid
-- **Race:** Human  
-- **Class:** Rogue  
-- **Background:** Spy  
-- **Ability Scores:**  
-  - Strength: 10  
-  - Dexterity: 18  
-  - Constitution: 12  
-  - Intelligence: 14  
-  - Wisdom: 11  
-  - Charisma: 13  
-- **Armor Class (AC):** 15  
-- **Hit Points (HP):** 30  
-- **Proficiencies:**  
-  - Skills: Stealth, Investigation  
-- **Equipment:**  
-  - Dagger, Cloak  
-- **Personality Traits:** I am observant.  
-- **Ideals:** Truth  
-- **Bonds:** I uncover secrets.  
-- **Flaws:** I struggle with trust issues.
+*[Celeste details will be updated once you provide her character sheet]*
 
-## Companions
+---
 
-### Theselhydra (Session Difficulty Levels)
-- **Session 1:**  
-  - **Threat Level:** Low  
-  - **Ability Scores:**  
-   - Strength: 15  
-   - Dexterity: 10  
-   - Constitution: 20  
-   - Intelligence: 1  
-   - Wisdom: 12  
-   - Charisma: 2  
-- **Hit Points (HP):** 40  
+## MAJOR NPCs (MODERNIZED - ALL HUMAN)
 
-- **Session 2:**  
-  - **Threat Level:** Medium  
-  - **Ability Scores:**  
-   - Strength: 18  
-   - Dexterity: 10  
-   - Constitution: 22  
-   - Intelligence: 1  
-   - Wisdom: 13  
-   - Charisma: 2  
-- **Hit Points (HP):** 60  
+### MARCUS CHEN — The Missing Person
+**Age:** 42 | **Occupation:** Construction Worker | **Status:** Missing (Jan 15, 2026)
+- Well-liked dad and neighbor
+- Regular dog-walker
+- Dog (Max) returned alone, traumatized, covered in black goo
 
-- **Session 3:**  
-  - **Threat Level:** High  
-  - **Ability Scores:**  
-   - Strength: 20  
-   - Dexterity: 11  
-   - Constitution: 25  
-   - Intelligence: 1  
-   - Wisdom: 14  
-   - Charisma: 3  
-- **Hit Points (HP):** 80  
+### DR. HELENA VOSS — Lead Researcher, Nexus
+**Age:** 54 | **Title:** Director, Nexus Research Facility
+**Motivation:** Believes controlled exposure to the Upside Down can elevate humanity
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 9   | 12  | 11  | 18  | 14  | 15  |
+- **AC:** 12 | **HP:** 27 | **Speed:** 30 ft.
+- **9mm Pistol:** +3 to hit, 7 (2d6) piercing damage
 
-- **Session 4:**  
-  - **Threat Level:** Deadly  
-  - **Ability Scores:**  
-   - Strength: 22  
-   - Dexterity: 12  
-   - Constitution: 30  
-   - Intelligence: 1  
-   - Wisdom: 15  
-   - Charisma: 3  
-- **Hit Points (HP):** 100  
+### SHERIFF TOM BLACKWELL — The Compromised Cop
+**Age:** 59 | **Title:** Sheriff of Oakhaven
+**Motivation:** Compromised by $200K/year government money
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 15  | 12  | 14  | 11  | 13  | 12  |
+- **AC:** 14 | **HP:** 33 | **Speed:** 30 ft.
+- **Service Pistol (.40 caliber):** +4 to hit, 8 (2d6+2) piercing damage
 
-- **Notable Features:**  
-  - Multi-headed, each head attacking separately.  
-  - Regenerates 5 HP per turn unless dealt fire or acid damage.
+### JIM WHEELER — Retired Cop (Fyndor's Uncle)
+**Age:** 62 | **Title:** Retired Police Officer
+**Motivation:** Witnessed the gate opening in 1983
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 13  | 11  | 12  | 13  | 14  | 10  |
+- **AC:** 11 | **HP:** 22 | **Speed:** 30 ft.
+- Knows the seal ritual and its cost
+
+### MARGARET THORNE — Town Historian (Celeste's Grandmother)
+**Age:** 84 | **Title:** Retired Librarian
+**Motivation:** Keeper of secrets for 60 years; knows the 30-year cycle
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 8   | 9   | 10  | 16  | 15  | 12  |
+- **AC:** 10 | **HP:** 16 | **Speed:** 20 ft.
+
+### MAYOR RICHARD HAYES — Mayor of Oakhaven
+**Age:** 52 | **Title:** Mayor
+**Motivation:** Wants Oakhaven to succeed; willing to bury truths
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 10  | 11  | 12  | 13  | 11  | 14  |
+- **AC:** 10 | **HP:** 22 | **Persuasion/Deception:** +5
+
+### MAX — The Dog
+**Species:** Golden Retriever | **Age:** 5 | **Status:** Traumatized but alive
+- **AC:** 12 | **HP:** 5
+- Keen Smell; won't enter woods; reacts to supernatural
+
+### AGENT MARCUS REID — Nexus Security Chief
+**Age:** 35 | **Title:** Security Chief, Nexus Research
+**Motivation:** Professional operative; no ideological commitment
+| STR | DEX | CON | INT | WIS | CHA |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 13  | 16  | 14  | 12  | 13  | 11  |
+- **AC:** 14 | **HP:** 27 | **Speed:** 30 ft.
+- **Taser:** +4 to hit (range 30 ft.), 6 (2d6) lightning + DC 13 CON or paralyzed
+- **9mm Pistol:** +4 to hit, 9 (2d8) piercing damage
